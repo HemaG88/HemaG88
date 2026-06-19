@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" alt="Hemavathi Banner" width="89%"/>
+<img src="./banner.png" alt="Hema Banner" width="89%"/>
 
 # 💀 Hema's Digital Graveyard 💀
 
@@ -14,7 +14,7 @@
 
 ## 🦴 About Me
 
-Hey, I'm **Hema** 👋
+Hey, I'm **Hema**👋
 
 💀 Passionate about **Data Science** and problem solving
 
