@@ -71,11 +71,11 @@ Hey, I'm **Hema**👋
 
 ## 📬 Contact Me
 
-📧 Email: [hemasuki7259@gmail.com](mailto:hemasuki7259@gmail.com)
-
 💼 LinkedIn: https://www.linkedin.com/in/g-hemavathi/
 
 💻 GitHub: https://github.com/HemaG88
+
+📧 Email: [hemasuki7259@gmail.com](mailto:hemasuki7259@gmail.com)
 
 ⚡ Netlify: https://tiny-kangaroo-632720.netlify.app/
 
