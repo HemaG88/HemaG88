@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" alt="Hemavathi Banner" width="62%"/>
+<img src="./banner.png" alt="Hemavathi Banner" width="89%"/>
 
 # 💀 Hema's Digital Graveyard 💀
 
