@@ -47,7 +47,7 @@ Hey, I'm **Hema** 👋
 ### Tools
 <img src="https://img.shields.io/badge/GIT-3A0A5E?style=for-the-badge&logo=git&logoColor=C792EA">
 
-<img src="https://img.shields.io/badge/VS%20CODE-3A0A5E?style=for-the-badge&logo=visual-studio-code&logoColor=C792EA">
+<img src="https://img.shields.io/badge/VS_Code-3A0A5E?style=for-the-badge&logo=visualstudiocode&logoColor=C792EA">
 
 
 
