@@ -37,8 +37,7 @@ Hey, I'm **Hema** 👋
 <img src="https://img.shields.io/badge/PYTHON-3A0A5E?style=for-the-badge&logo=python&logoColor=C792EA">
 
 <img src="https://img.shields.io/badge/C-3A0A5E?style=for-the-badge&logo=c&logoColor=C792EA">
-![Python](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-8A2BE2?style=for-the-badge\&logo=c\&logoColor=white)
+
 
 ### Frontend
 <img src="https://img.shields.io/badge/HTML-3A0A5E?style=for-the-badge&logo=html5&logoColor=C792EA">
@@ -46,18 +45,12 @@ Hey, I'm **Hema** 👋
 <img src="https://img.shields.io/badge/CSS-3A0A5E?style=for-the-badge&logo=css3&logoColor=C792EA">
 
 
-![HTML](https://img.shields.io/badge/HTML-8A2BE2?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-8A2BE2?style=for-the-badge\&logo=css3\&logoColor=white)
-
 ### Tools
 <img src="https://img.shields.io/badge/GIT-3A0A5E?style=for-the-badge&logo=git&logoColor=C792EA">
 
 <img src="https://img.shields.io/badge/VS_CODE-3A0A5E?style=for-the-badge&logo=visualstudiocode&logoColor=C792EA">
 
-![Git](https://img.shields.io/badge/Git-8A2BE2?style=for-the-badge\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-8A2BE2?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
----
 
 ## 💀 Featured Projects
 
