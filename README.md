@@ -77,7 +77,7 @@ Hey, I'm **Hema**👋
 
 📧 Email: [hemasuki7259@gmail.com](mailto:hemasuki7259@gmail.com)
 
-⚡ Netlify: https://tiny-kangaroo-632720.netlify.app/
+⚡ Netlify: https://hema-portfoli.netlify.app/
 
 ---
 
