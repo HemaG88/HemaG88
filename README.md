@@ -32,15 +32,15 @@ Hey, I'm **Hema** 👋
 ## 💀 Spellbook
 
 <p align="center">
-
+Languages:
 <img src="https://img.shields.io/badge/PYTHON-3A0A5E?style=for-the-badge&logo=python&logoColor=C792EA">
 
 <img src="https://img.shields.io/badge/C-3A0A5E?style=for-the-badge&logo=c&logoColor=C792EA">
-
+Front end:
 <img src="https://img.shields.io/badge/HTML-3A0A5E?style=for-the-badge&logo=html5&logoColor=C792EA">
 
 <img src="https://img.shields.io/badge/CSS-3A0A5E?style=for-the-badge&logo=css3&logoColor=C792EA">
-
+Tools:
 <img src="https://img.shields.io/badge/GIT-3A0A5E?style=for-the-badge&logo=git&logoColor=C792EA">
 
 <img src="https://img.shields.io/badge/VS_CODE-3A0A5E?style=for-the-badge&logo=visualstudiocode&logoColor=C792EA">
