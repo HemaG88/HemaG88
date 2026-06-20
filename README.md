@@ -66,11 +66,7 @@ Hey, I'm **Hema**👋
 
 ---
 
-## 🔥 GitHub Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HemaG88&theme=tokyo-night&hide_border=true"/>
-
----
 
 ## ⚡ Contribution Streak
 
@@ -78,11 +74,7 @@ Hey, I'm **Hema**👋
 
 ---
 
-## 📊 GitHub Statistics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=HemaG88\&show_icons=true\&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HemaG88\&layout=compact\&theme=tokyonight)
 
 
 ## 📊 GitHub Statistics
