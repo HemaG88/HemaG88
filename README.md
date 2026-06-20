@@ -42,24 +42,48 @@ Hey, I'm **Hema**👋
 ### Frontend
 <img src="https://img.shields.io/badge/HTML-3A0A5E?style=for-the-badge&logo=html5&logoColor=C792EA">
 
-<img src="https://img.shields.io/badge/CSS-3A0A5E?style=for-the-badge&logo=css&logoColor=C792EA">
+<img src="https://img.shields.io/badge/CSS-3A0A5E?style=for-the-badge&logo=css3&logoColor=C792EA">
 
 ### Tools
 <img src="https://img.shields.io/badge/GIT-3A0A5E?style=for-the-badge&logo=git&logoColor=C792EA">
 
-<img src="https://img.shields.io/badge/VS_Code-3A0A5E?style=for-the-badge&logo=vscode&logoColor=C792EA">
-
+<img src="https://img.shields.io/badge/VS_Code-3A0A5E?style=for-the-badge&logo=visualstudiocode&logoColor=C792EA">
 
 
 ## 💀 Featured Projects
 
-| Project                    | Description                                                                                                                                   |
-| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🤖 Context Chatbot         | An intelligent Python chatbot designed to maintain conversation context and provide more meaningful responses based on previous interactions. |
-| 💰 Personal Budget Tracker | A Python-based finance management tool that helps users track expenses, monitor spending habits, and manage personal budgets efficiently.     |
-| 🎮 Simon Says Game         | A fun memory challenge game built using HTML, CSS, and JavaScript where players repeat increasingly complex color sequences.                  |
+🎯 Placement Prediction | A Machine Learning project that predicts student placement outcomes using academic and personal attributes. Built using Python, Pandas, Scikit-Learn, and data visualization techniques to analyze placement trends and improve prediction accuracy. |
+| 🖼️ CLIP Visual Search  | An AI-powered image search system using OpenAI's CLIP model. Users can search images using natural language descriptions, enabling semantic image retrieval beyond traditional keyword-based search.                                                 |
+| 🎮 Simon Says Game      | An interactive memory-based game built with HTML, CSS, and JavaScript. Features dynamic sequence generation, score tracking, and responsive gameplay mechanics.                                                                                      |
 
 ---
+
+## 📊 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=HemaG88&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemaG88&layout=compact&theme=tokyonight&hide_border=true"/>
+
+---
+
+## 🔥 GitHub Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HemaG88&theme=tokyo-night&hide_border=true"/>
+
+---
+
+## ⚡ Contribution Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HemaG88&theme=tokyonight&hide_border=true"/>
+
+---
+
+## 📊 GitHub Statistics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=HemaG88\&show_icons=true\&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HemaG88\&layout=compact\&theme=tokyonight)
+
 
 ## 📊 GitHub Statistics
 
