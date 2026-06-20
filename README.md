@@ -31,8 +31,6 @@ Hey, I'm **Hema**👋
 ## 💀 Tech Stack
 
 
-
-
 ### Languages
 <img src="https://img.shields.io/badge/PYTHON-3A0A5E?style=for-the-badge&logo=python&logoColor=C792EA"> <img src="https://img.shields.io/badge/C-3A0A5E?style=for-the-badge&logo=c&logoColor=C792EA">
 
@@ -43,6 +41,7 @@ Hey, I'm **Hema**👋
 ### Tools
 <img src="https://img.shields.io/badge/GIT-3A0A5E?style=for-the-badge&logo=git&logoColor=C792EA"> <img src="https://img.shields.io/badge/VS_Code-3A0A5E?style=for-the-badge&logo=visualstudiocode&logoColor=C792EA">
 
+---
 
 ## ## 💀 Featured Projects
 
@@ -68,7 +67,8 @@ Hey, I'm **Hema**👋
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemaG88&theme=tokyonight&hide_border=true"/>
 
-
+ ---
+ 
 ## 📬 Contact Me
 
 💼 LinkedIn: https://www.linkedin.com/in/g-hemavathi/
