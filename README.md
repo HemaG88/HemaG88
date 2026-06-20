@@ -27,7 +27,7 @@ Hey, I'm **Hema**👋
 ✨ Always curious, always improving
 
 ---
-
+---
 ## 💀 Tech Stack
 
 
@@ -42,7 +42,7 @@ Hey, I'm **Hema**👋
 <img src="https://img.shields.io/badge/GIT-3A0A5E?style=for-the-badge&logo=git&logoColor=C792EA"> <img src="https://img.shields.io/badge/VS_Code-3A0A5E?style=for-the-badge&logo=visualstudiocode&logoColor=C792EA">
 
 ---
-
+---
 ## ## 💀 Featured Projects
 
 | Project                 | Description                                                                                                                                                                                                                                          |
@@ -50,7 +50,6 @@ Hey, I'm **Hema**👋
 | 🖼️ CLIP Visual Search  | An AI-powered image search system using OpenAI's CLIP model. Users can search images using natural language descriptions, enabling semantic image retrieval beyond traditional keyword-based search.  |
 | 🎮 Simon Says Game   | An interactive memory-based game built with HTML, CSS, and JavaScript. Features dynamic sequence generation, score tracking, and responsive gameplay mechanics.  |
 | 🎯 Placement Prediction | A Machine Learning project that predicts student placement outcomes using academic and personal attributes. Built using Python, Pandas, Scikit-Learn, and data visualization techniques to analyze placement trends and improve prediction accuracy.                                               |
-
 
 ---
 
@@ -87,3 +86,4 @@ Hey, I'm **Hema**👋
 
 
 </div>
+---
