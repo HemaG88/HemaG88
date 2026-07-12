@@ -50,11 +50,12 @@ Hey, I'm **Hema** 👋
 </div>
 ## 💀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🚀 TrippyPrep | AI-powered Placement Preparation Platform built with Python & Streamlit. Includes Aptitude, Technical, HR Interview preparation, Company-wise learning paths, Resume Analyzer, Mock Tests and Progress Tracking. |
-| 🖼️ CLIP Visual Search | AI-powered semantic image search using OpenAI CLIP that retrieves visually similar images from natural language queries. |
-| 🎮 Simon Says Game | Interactive memory game developed using HTML, CSS and JavaScript featuring responsive UI and increasing difficulty levels. |
+| 🚀 Project | 📝 Description |
+|------------|----------------|
+| 🚀 **TrippyPrep** | AI-powered Placement Preparation Platform built with Python & Streamlit. Features company-wise preparation, aptitude, technical & HR practice, mock tests, resume analysis, and personalized progress tracking. *(Currently under active development)* |
+| 🎯 **PlacementPrediction** | Machine Learning project that predicts student placement outcomes using historical academic and skill-based data. Built with Python, Scikit-learn, Pandas, and data visualization techniques. |
+| 🖼️ **CLIP Visual Search** | AI-powered semantic image search engine using OpenAI CLIP. Retrieves visually relevant images from natural language queries using deep learning embeddings. |
+| 🎮 **Simon Says Game** | Interactive memory game built with HTML, CSS, and JavaScript featuring responsive UI and progressively challenging gameplay. |
 ---
 
 ## ⚡ Contribution Streak
