@@ -48,9 +48,9 @@ Hey, I'm **Hema** 👋
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit" />
 
-</div>
----
-💀 Featured Projects
+</div> ---
+
+## 💀 Featured Projects
 
 | 🚀 Project | 📝 Description |
 |------------|----------------|
