@@ -50,7 +50,6 @@ Hey, I'm **Hema** 👋
 
 </div>
 ---
----
 💀 Featured Projects
 
 | 🚀 Project | 📝 Description |
