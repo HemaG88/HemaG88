@@ -14,18 +14,17 @@
 
 ## 🦴 About Me
 
-Hey, I'm **Hema**👋
+Hey, I'm **Hema** 👋
 
-💀 Passionate about **Data Science** and problem solving
+💀 Passionate about AI, Data Science and Software Development
 
-🐍 Strong in **Python**
+🐍 Python Developer who enjoys building useful applications
 
-📚 Currently learning software development and modern technologies
+🧠 Currently developing **TrippyPrep**, an AI-powered Placement Preparation Platform
 
-🚀 Built multiple Python-based projects and web applications
+🚀 Love creating projects that solve real-world problems
 
-✨ Always curious, always improving
-
+✨ Always learning, always building.
 ---
 ## # ✦ Tech Constellation
 
