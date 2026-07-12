@@ -49,15 +49,13 @@ Hey, I'm **Hema**👋
 <img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit" />
 
 </div>
----
-## ## 💀 Featured Projects
+## 💀 Featured Projects
 
-| Project                 | Description                                                                                                                                                                                                                                          |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🖼️ CLIP Visual Search  | An AI-powered image search system using OpenAI's CLIP model. Users can search images using natural language descriptions, enabling semantic image retrieval beyond traditional keyword-based search.  |
-| 🎮 Simon Says Game   | An interactive memory-based game built with HTML, CSS, and JavaScript. Features dynamic sequence generation, score tracking, and responsive gameplay mechanics.  |
-| 🎯 Placement Prediction | A Machine Learning project that predicts student placement outcomes using academic and personal attributes. Built using Python, Pandas, Scikit-Learn, and data visualization techniques to analyze placement trends and improve prediction accuracy.                                               |
-
+| Project | Description |
+|---------|-------------|
+| 🚀 TrippyPrep | AI-powered Placement Preparation Platform built with Python & Streamlit. Includes Aptitude, Technical, HR Interview preparation, Company-wise learning paths, Resume Analyzer, Mock Tests and Progress Tracking. |
+| 🖼️ CLIP Visual Search | AI-powered semantic image search using OpenAI CLIP that retrieves visually similar images from natural language queries. |
+| 🎮 Simon Says Game | Interactive memory game developed using HTML, CSS and JavaScript featuring responsive UI and increasing difficulty levels. |
 ---
 
 ## ⚡ Contribution Streak
