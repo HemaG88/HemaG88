@@ -26,6 +26,7 @@ Hey, I'm **Hema** 👋
 
 ✨ Always learning, always building.
 ---
+---
 ##  ✦ Tech Constellation
 
 <div align="center">
@@ -48,6 +49,7 @@ Hey, I'm **Hema** 👋
 <img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit" />
 
 </div>
+---
 ---
 💀 Featured Projects
 
