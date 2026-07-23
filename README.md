@@ -11,7 +11,6 @@
 </div>
 
 ---
-
 ## 🦴 About Me
 
 Hey, I'm **Hema** 👋
@@ -50,7 +49,6 @@ Hey, I'm **Hema** 👋
 
 </div>
 
-
 ## 💀 Featured Projects
 
 | 🚀 Project | 📝 Description |
@@ -82,6 +80,5 @@ Hey, I'm **Hema** 👋
 <div align="center">
 
 ### 💜 "The Graveyard Of Bugs Begins Here." 💜
-
 
 </div>
